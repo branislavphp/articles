@@ -1,6 +1,6 @@
 # articles
 
-Examlpe project built with CodeIgniter and Bootstrap on XAMPP.
+Example project built with CodeIgniter and Bootstrap on XAMPP.
 
 # blog
 
