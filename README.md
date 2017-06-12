@@ -1,7 +1,7 @@
 # articles
 
-Example project built with CodeIgniter and Bootstrap on XAMPP.
+An example project built with CodeIgniter and Bootstrap on XAMPP.
 
 # blog
 
-Example project built with Laravel and Bootstrap on Vagrant.
+An example project built with Laravel and Bootstrap on Vagrant.
